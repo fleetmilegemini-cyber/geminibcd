@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "%USERPROFILE%": "user",
+    "C:\Windows\System32": "system32"
+  }
+}
