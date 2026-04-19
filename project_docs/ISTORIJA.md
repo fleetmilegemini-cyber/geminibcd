@@ -10,4 +10,5 @@
 - Planuojama išbandyti AskUI-Demo-Project.
 - Sistemoje sėkmingai rasta ir patikrinta Git versija (2.53.0.windows.3). Tai leis pradėti GitHub integraciją ir istorijos sinchronizavimą.
 - Inicijuotas `geminibcd` projekto dokumentacijos atnaujinimas.
+- Sukurtas `sync_github.bat` skriptas automatiniam `pull`, `commit` ir `push` veiksmų atlikimui.
 
