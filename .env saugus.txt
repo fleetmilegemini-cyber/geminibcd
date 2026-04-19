@@ -1,0 +1,17 @@
+# Gemini CLI Credentials and Tokens
+# NEVER commit this file to a public repository!
+
+# AskUI Credentials
+ASKUI_WORKSPACE_ID=4b8          9b
+ASKUI_TOKEN=eqWe              zz
+
+# Gemini API Key
+GEMINI_API_KEY=AI                       MI
+
+# GitHub Credentials (to be filled by user)
+GITHUB_TOKEN=github_pat_11CCD              6J
+#vertex : AQ.Ab8RN6                               ew
+
+GOOGLE_API_KEY=AQ.                    8SBew
+GOOGLE_CLOUD_PROJECT=vertex-express@project-0        99d.iam.gserviceaccount.com
+GOOGLE_CLOUD_LOCATION=us-central1
